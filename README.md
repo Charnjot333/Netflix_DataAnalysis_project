@@ -1,7 +1,10 @@
 # Netflix_DataAnalysis_project
 
 ## Table Content 
-- [Project Overview](project-overview)
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Data Analysis](#data-analysis)
+
 
 ### Project Overview
 This project involves analyzing a dataset of Netflix shows and movies, focusing on key features such as title, director, cast, release year, rating, duration, and other relevant metadata. By exploring these attributes, the goal is to uncover meaningful insights about Netflix’s content 
@@ -105,3 +108,5 @@ inner join netflix_directors
 on countries_released.show_id=netflix_directors.show_id
 where country = 'India';
 ```
+
+
