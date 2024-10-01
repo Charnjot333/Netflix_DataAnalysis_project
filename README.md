@@ -1,5 +1,8 @@
 # Netflix_DataAnalysis_project
 
+## Table Content 
+- [Project Overview](project-overview)
+
 ### Project Overview
 This project involves analyzing a dataset of Netflix shows and movies, focusing on key features such as title, director, cast, release year, rating, duration, and other relevant metadata. By exploring these attributes, the goal is to uncover meaningful insights about Netflix’s content 
 
